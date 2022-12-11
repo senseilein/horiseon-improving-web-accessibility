@@ -136,19 +136,12 @@ header nav ul li {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h2,
+.benefit-brand h2
+.benefit-cost h2 {
     margin-bottom: 10px;
     text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
+    font-size: 1.17em; /* h2 with a font-size of a h3*/
 }
 
 .benefit-lead img {
