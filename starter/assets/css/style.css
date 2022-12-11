@@ -197,13 +197,19 @@ header nav ul li {
     font-size: 36px;
 }
 
-.footer {
+/*---------------------- FOOTER ----------------------*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    
+    /* 
+    Suggestion for the client
+    background-color: #2a607c;
+    color: #ffffff; */
 }
 
-.footer h2 {
+footer p{
     font-size: 20px;
 }
