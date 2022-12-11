@@ -109,9 +109,8 @@ header nav ul li {
 }
 
 
-
-
-.benefits {
+/*---------------------- ASIDE ----------------------*/
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
