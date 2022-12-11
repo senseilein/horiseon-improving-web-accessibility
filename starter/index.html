@@ -31,7 +31,11 @@
         </nav>
     </header>
 
-    <div class="hero"></div>
+    <!---------------------- HERO SECTION ---------------------->
+    <!-- from a screen reader perspective the <div> with the background image is ignored and so placing the <span> directly following it will provide that information in a way that will seem as if the alternate text was in the same place as the background image.  -->
+        <div><span class="hero" role="img" aria-label="a diverse marketing team collaborating on a project in their office"></span>
+        </div>
+
     <div class="content">
         <div class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
