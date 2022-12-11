@@ -137,24 +137,24 @@ header nav ul li {
     background-color: var(--aside-background);
 }
 
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
+#benefit-lead,
+#benefit-brand,
+#benefit-cost {
     margin-bottom: 32px;
     color: var(--white);
 }
 
-.benefit-lead h2,
-.benefit-brand h2,
-.benefit-cost h2 {
+#benefit-lead h2,
+#benefit-brand h2,
+#benefit-cost h2 {
     margin-bottom: 10px;
     text-align: center;
     font-size: 1.17em; /* h2 with a font-size of a h3*/
 }
 
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
+#benefit-lead img,
+#benefit-brand img,
+#benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
