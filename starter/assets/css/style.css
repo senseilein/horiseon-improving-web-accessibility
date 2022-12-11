@@ -5,11 +5,27 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
+:root{
+    /*----- Colours -----*/
+
+ --banner: #2a607c;
+ --section-background: #0072bb;
+ --aside-background: #2589bd;
+ --light-grey: #d9dcd6;
+ --white: #ffffff; 
+
+    /*----- Fonts -----*/
+ --trebuchet: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ --gillsans : 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 }
+
+
+body {
+    background-color: var(--light-grey);
+}
+
 a {
-    color: #ffffff;
+    color: var(--white);
     text-decoration: none;
 }
 
@@ -24,9 +40,9 @@ em {
 /*---------------------- HEADER ----------------------*/
 header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
+    font-family: var(--trebuchet);
+    background-color: var(--banner);
+    color: var(--white);
 }
 
 header h1 {
@@ -35,14 +51,14 @@ header h1 {
 }
 
 header h1 #seo {
-    color: #d9dcd6;
+    color: var(--light-grey);
 }
 
 header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: var(--gillsans);
     font-size: 20px;
 }
 
@@ -90,9 +106,9 @@ header nav ul li {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    font-family: var(--gillsans);
+    background-color: var(--section-background);
+    color: var(--white);
 }
 
 #search-engine-optimization img,
@@ -117,15 +133,15 @@ header nav ul li {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    font-family: var(--gillsans);
+    background-color: var(--aside-background);
 }
 
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: var(--white);
 }
 
 .benefit-lead h2,
@@ -154,8 +170,8 @@ footer {
     
     /* 
     Suggestion for the client
-    background-color: #2a607c;
-    color: #ffffff; */
+    background-color: var(--banner);
+    color: var(--white); */
 }
 
 footer p{
