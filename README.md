@@ -42,43 +42,43 @@ THEN I can have access to an alternative text.
 ```
 
 ### Acceptance Criteria
-It's done when:
-[] The HTML document includes a `<meta>` description with a `content` attribute.
-[] All the tags are replaced by more appropriate semantic tags when available.
-[] HTML elements follow a logical structure independent of styling and positioning.
-[] Heading elements fall in sequential order.
-[] All non-decorative images and icons contain a descriptive `alt` attribute.
-[] All decorative images and icons contain an `alt` attribute set to an empty string.
-[] All links (anchor `<a>` tags) include a `href` attribute.
-[] All links function correctly.
-[] Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-[] HTML and CSS files are properly commented.
+It's done when:  
+[] The HTML document includes a `<meta>` description with a `content` attribute.  
+[] All the tags are replaced by more appropriate semantic tags when available.  
+[] HTML elements follow a logical structure independent of styling and positioning.  
+[] Heading elements fall in sequential order.  
+[] All non-decorative images and icons contain a descriptive `alt` attribute.  
+[] All decorative images and icons contain an `alt` attribute set to an empty string.  
+[] All links (anchor `<a>` tags) include a `href` attribute.  
+[] All links function correctly.  
+[] Application's CSS selectors and properties are consolidated and organized to follow semantic structure.  
+[] HTML and CSS files are properly commented.  
 
 ### Mock-Up
 The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
-
+ 
 **Note**: This layout is designed for desktop viewing.
 
 ## Technology used
-- HTML
+- HTML  
 - CSS
 
 **What I've learnt**
-- I discovered more `<meta>` and semantics tags to improve the positioning of the web application.
+- I discovered more `<meta>` and semantics tags to improve the positioning of the web application.  
 - I was able to incorporate some CSS variables, providing more readability to the code.
 
 **Suggestions for improvement**
-- Review code colour contrast
+- Review code colour contrast  
 - Make the website responsive so that it can be accessed from different platforms
 
 ## Installation
 No installation needed
 
 ## Credits
-- This project was made as part of a coding assignment with [Trilogy Education Services](https://skillsforlife.edx.org/?utm_source=govuk)
-- [W3C](https://validator.w3.org/) for markup and CSS validity
+- This project was made as part of a coding assignment with [Trilogy Education Services](https://skillsforlife.edx.org/?utm_source=govuk)   
+- [W3C](https://validator.w3.org/) for markup and CSS validity  
 - Useful website for accessibility related info by [CanAdapt Solutions](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
 
 ## License 
