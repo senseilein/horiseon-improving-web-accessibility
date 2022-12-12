@@ -2,7 +2,7 @@
 # Horiseon - Improving Website Accessibility  
 ![](https://img.shields.io/badge/html-HTML5-orange?logo=html5)
 ![](https://img.shields.io/badge/css-CSS3-%231572B6)
-![](https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fsenseilein.github.io%2Fchallenge1-horiseon%2F)
+![](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fsenseilein.github.io%2Fchallenge1-horiseon%2F)
 
 ## Description
 
