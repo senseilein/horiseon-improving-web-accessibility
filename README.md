@@ -7,7 +7,7 @@
 
 ## 📖 DESCRIPTION
 
-### 🎯What is it about?
+### 🎯 What is it about?
 Horiseon is a marketing agency providing social solution services. They are specialized in search engine optimization, online reputation management and social media marketing.
 
 They requested a review of their website in order to:
