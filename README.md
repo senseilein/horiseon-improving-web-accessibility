@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/html-HTML5-orange?logo=html5)
 ![](https://img.shields.io/badge/css-CSS3-%231572B6)
 ![](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fsenseilein.github.io%2Fchallenge1-horiseon%2F)
+![](https://img.shields.io/github/license/senseilein/challenge1-horiseon)
 
 ## Description
 
@@ -20,6 +21,8 @@ They requested a review of their website in order to:
 - **Business** It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
 
 ## Usage
+
+[**>> Visit the horiseon website <<**](https://senseilein.github.io/challenge1-horiseon/)
 
 ### User story
 
@@ -82,4 +85,4 @@ No installation needed
 - Useful website for accessibility related info by [CanAdapt Solutions](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
 
 ## License 
-![](https://img.shields.io/github/license/senseilein/challenge1-horiseon) This repository is licensed under the MIT license.
+This repository is licensed under the MIT license.
