@@ -5,6 +5,15 @@
 ![](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fsenseilein.github.io%2Fchallenge1-horiseon%2F)
 ![](https://img.shields.io/github/license/senseilein/challenge1-horiseon)
 
+## 🚩 TABLE OF CONTENT
+- [Description] (#-DESCRIPTION)
+- [Usage] (#-USAGE)
+- [Mock-up] (#-MOCK-UP)
+- [Technology used] (#-TECHNOLOGY-USED)
+- [Installation] (#-INSTALLATION)
+- [Credits] (#-CREDITS)
+- [License] (#-LICENSE)
+
 ## 📖 DESCRIPTION
 
 ### 🎯 What is it about?
