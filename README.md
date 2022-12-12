@@ -7,7 +7,7 @@
 
 ## 🚩 TABLE OF CONTENT
 - [Description](#-description)
-- [Usage] (#-usage)
+- [Usage](#-usage)
 - [Mock-up](#-mock-up)
 - [Technology used](#-technology-used)
 - [Installation](#-installation)
