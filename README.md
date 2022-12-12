@@ -58,6 +58,14 @@ The following image shows the web application's appearance and functionality:
 
 **Note**: This layout is designed for desktop viewing.
 
+## Technology used
+- HTML
+- CSS
+
+**What I've learnt**
+- I discovered more `<meta>` and semantics tags to improve the positioning of the web application.
+- I was able to incorporate some CSS variables, providing more readability to the code.
+
 ## Installation
 No installation needed
 
