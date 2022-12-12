@@ -28,6 +28,9 @@ a {
     color: var(--white);
     text-decoration: none;
 }
+a:hover{
+    text-shadow: 1px 1px 5px #d9dcd6;
+}
 
 p {
     font-size: 16px;
@@ -169,9 +172,9 @@ footer {
     text-align: center;
     
     /* 
-    Suggestion for the footer - to be discussed with the client:
+    Suggestion for the footer - to be discussed with the client:*/
     background-color: var(--banner);
-    color: var(--white); */
+    color: var(--white);
 }
 
 footer p{
