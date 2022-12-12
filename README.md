@@ -43,7 +43,7 @@ THEN I can have access to an alternative text.
 
 ### Acceptance Criteria
 It's done when:  
-- [] The HTML document includes a `<meta>` description with a `content` attribute.  
+- [ ]  The HTML document includes a `<meta>` description with a `content` attribute.  
 - [] All the tags are replaced by more appropriate semantic tags when available.  
 - [] HTML elements follow a logical structure independent of styling and positioning.  
 - [] Heading elements fall in sequential order.  
