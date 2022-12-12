@@ -1,5 +1,6 @@
 
-# Horiseon - Improving Website Accessibility
+# Horiseon - Improving Website Accessibility  
+(https://img.shields.io/badge/html-HTML5-orange?logo=html5)
 
 ## Description
 
@@ -59,7 +60,7 @@ The following image shows the web application's appearance and functionality:
 **Note**: This layout is designed for desktop viewing.
 
 ## Technology used
-- #E34F26 HTML
+- HTML
 - CSS
 
 **What I've learnt**
