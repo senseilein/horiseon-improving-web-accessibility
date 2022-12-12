@@ -1,3 +1,4 @@
+
 # Horiseon - Improving Website Accessibility
 
 ## Description
@@ -15,3 +16,28 @@ They requested a review of their website in order to:
 - **Wed positioning** Accessible sites are better positioned in search engines like Google. 
 - **Business** It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
 
+## User story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+
+```
+WHEN I open the web page, 
+THEN I can clearly identify its structure using assistive technologies. 
+
+WHEN I click on a link, 
+THEN I'm redirected to its associated target.
+
+WHEN I can't see an image,
+THEN I can have access to an alternative text.
+
+```
+
+### Acceptance Criteria
+
+
+## Installation
+No installation needed
