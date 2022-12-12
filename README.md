@@ -82,4 +82,4 @@ No installation needed
 - Useful website for accessibility related info by [CanAdapt Solutions](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
 
 ## License 
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+![](https://img.shields.io/github/license/senseilein/challenge1-horiseon) This repository is licensed under the MIT license.
