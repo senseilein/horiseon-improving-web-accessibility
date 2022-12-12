@@ -33,11 +33,19 @@ SO THAT our own site is optimized for search engines
 ```
 
 ```
+GIVEN a horiseon website
+
+WHEN I visit the website using the URL
+THEN I can access the website from any browser 
+
 WHEN I open the web page,   
 THEN I can clearly identify its structure using assistive technologies. 
 
+WHEN I see the webpage,
+THEN I can see a header with a heading and a navigation menu with 3 links, a main section, an aside and a footer
+
 WHEN I click on a link,  
-THEN I'm redirected to its associated target.
+THEN I'm redirected to its associated target - a section on the page.
 
 WHEN I can't see an image,  
 THEN I can have access to an alternative text.
