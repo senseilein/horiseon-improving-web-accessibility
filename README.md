@@ -69,12 +69,16 @@ The following image shows the web application's appearance and functionality:
 - I discovered more `<meta>` and semantics tags to improve the positioning of the web application.
 - I was able to incorporate some CSS variables, providing more readability to the code.
 
+**Suggestions for improvement**
+- Review code colour contrast
+- Make the website responsive so that it can be accessed from different platforms
+
 ## Installation
 No installation needed
 
 ## Credits
 - This project was made as part of a coding assignment with [Trilogy Education Services](https://skillsforlife.edx.org/?utm_source=govuk)
-
+- [W3C](https://validator.w3.org/) for markup and CSS validity
 - Useful website for accessibility related info by [CanAdapt Solutions](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
 
 ## License 
