@@ -25,9 +25,9 @@ They requested a review of their website in order to:
 
 ### 🌏 Why is web accessibility important?
 
-- **Inclusion** Web accessibility ensures that people with disabilities can access a website using assistive technologies (such as video captions, screen readers, and braille keyboards).   
-- **Wed positioning** Accessible sites are better positioned in search engines like Google.   
-- **Business** It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
+- **INCLUSION** Web accessibility ensures that people with disabilities can access a website using assistive technologies (such as video captions, screen readers, and braille keyboards).   
+- **WEB POSITIONING** Accessible sites are better positioned in search engines like Google.   
+- **BUSINESS** It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
 
 ## 💻 USAGE
 
