@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/license/senseilein/challenge1-horiseon)
 
 ## 🚩 TABLE OF CONTENT
-- [Description] (#-DESCRIPTION)
+- [Description] (#-description)
 - [Usage] (#-USAGE)
 - [Mock-up] (#-MOCK-UP)
 - [Technology used] (#-TECHNOLOGY-USED)
