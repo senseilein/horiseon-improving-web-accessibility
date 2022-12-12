@@ -43,16 +43,16 @@ THEN I can have access to an alternative text.
 
 ### Acceptance Criteria
 It's done when:  
-[] The HTML document includes a `<meta>` description with a `content` attribute.  
-[] All the tags are replaced by more appropriate semantic tags when available.  
-[] HTML elements follow a logical structure independent of styling and positioning.  
-[] Heading elements fall in sequential order.  
-[] All non-decorative images and icons contain a descriptive `alt` attribute.  
-[] All decorative images and icons contain an `alt` attribute set to an empty string.  
-[] All links (anchor `<a>` tags) include a `href` attribute.  
-[] All links function correctly.  
-[] Application's CSS selectors and properties are consolidated and organized to follow semantic structure.  
-[] HTML and CSS files are properly commented.  
+- [] The HTML document includes a `<meta>` description with a `content` attribute.  
+- [] All the tags are replaced by more appropriate semantic tags when available.  
+- [] HTML elements follow a logical structure independent of styling and positioning.  
+- [] Heading elements fall in sequential order.  
+- [] All non-decorative images and icons contain a descriptive `alt` attribute.  
+- [] All decorative images and icons contain an `alt` attribute set to an empty string.  
+- [] All links (anchor `<a>` tags) include a `href` attribute.  
+- [] All links function correctly.  
+- [] Application's CSS selectors and properties are consolidated and organized to follow semantic structure.  
+- [] HTML and CSS files are properly commented.  
 
 ### Mock-Up
 The following image shows the web application's appearance and functionality:
