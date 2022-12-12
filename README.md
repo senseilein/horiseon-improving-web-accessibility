@@ -7,12 +7,12 @@
 
 ## 🚩 TABLE OF CONTENT
 - [Description](#-description)
-- [Usage] (#-USAGE)
-- [Mock-up] (#-MOCK-UP)
-- [Technology used] (#-TECHNOLOGY-USED)
-- [Installation] (#-INSTALLATION)
-- [Credits] (#-CREDITS)
-- [License] (#-LICENSE)
+- [Usage] (#-usage)
+- [Mock-up](#-mock-up)
+- [Technology used](#-technology-used)
+- [Installation](#-installation)
+- [Credits](#-credits)
+- [License](#-license)
 
 ## 📖 DESCRIPTION
 
