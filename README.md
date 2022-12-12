@@ -20,7 +20,7 @@ They requested a review of their website in order to:
 - **Wed positioning** Accessible sites are better positioned in search engines like Google.   
 - **Business** It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
 
-## 💻 Usage
+## 💻 USAGE
 
 [**>> Visit the horiseon website <<**](https://senseilein.github.io/challenge1-horiseon/)
 
@@ -65,7 +65,7 @@ It's done when:
 - [ ]  Application's CSS selectors and properties are consolidated and organized to follow semantic structure.  
 - [ ]  HTML and CSS files are properly commented.  
 
-### 🎨 MOCK-UP
+## 🎨 MOCK-UP
 The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
@@ -76,11 +76,11 @@ The following image shows the web application's appearance and functionality:
 - HTML  
 - CSS
 
-**What I've learnt**
+### What I've learnt
 - I discovered more `<meta>` and semantics tags to improve the positioning of the web application.  
 - I was able to incorporate some CSS variables, providing more readability to the code.
 
-**Suggestions for improvement**
+### Suggestions for improvement
 - Review code colour contrast  
 - Make the website responsive so that it can be accessed from different platforms
 
