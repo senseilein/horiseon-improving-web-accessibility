@@ -60,3 +60,11 @@ The following image shows the web application's appearance and functionality:
 
 ## Installation
 No installation needed
+
+## Credits
+- This project was made as part of a coding assignment with [Trilogy Education Services](https://skillsforlife.edx.org/?utm_source=govuk)
+
+- Useful website for accessibility related info by [CanAdapt Solutions](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+
+## License 
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
