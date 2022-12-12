@@ -59,7 +59,7 @@ The following image shows the web application's appearance and functionality:
 **Note**: This layout is designed for desktop viewing.
 
 ## Technology used
-- HTML
+- #E34F26 HTML
 - CSS
 
 **What I've learnt**
