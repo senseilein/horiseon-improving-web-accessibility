@@ -7,7 +7,7 @@
 
 ## 📖 DESCRIPTION
 
-### What is it about?
+### 🎯What is it about?
 Horiseon is a marketing agency providing social solution services. They are specialized in search engine optimization, online reputation management and social media marketing.
 
 They requested a review of their website in order to:
@@ -76,11 +76,11 @@ The following image shows the web application's appearance and functionality:
 - HTML  
 - CSS
 
-### What I've learnt
+### 💡 What I've learnt
 - I discovered more `<meta>` and semantics tags to improve the positioning of the web application.  
 - I was able to incorporate some CSS variables, providing more readability to the code.
 
-### Suggestions for improvement
+### ➕ Suggestions for improvement
 - Review code colour contrast  
 - Make the website responsive so that it can be accessed from different platforms
 
