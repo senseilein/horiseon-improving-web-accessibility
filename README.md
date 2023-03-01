@@ -2,7 +2,7 @@
 # HORISEON - IMPROVING WEB ACCESSIBILITY
 ![](https://img.shields.io/badge/html-HTML5-orange?logo=html5)
 ![](https://img.shields.io/badge/css-CSS3-%231572B6)
-![](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fsenseilein.github.io%2Fchallenge1-horiseon%2F)
+![](https://img.shields.io/w3c-validation/html?targetUrl=https://senseilein.github.io/horiseon-improving-web-accessibility)
 ![](https://img.shields.io/github/license/senseilein/challenge1-horiseon)
 
 ## 🚩 TABLE OF CONTENT
