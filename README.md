@@ -31,7 +31,7 @@ They requested a review of their website in order to:
 
 ## 💻 USAGE
 
-[**>> Visit the horiseon website <<**](https://senseilein.github.io/challenge1-horiseon/)
+[**>> Visit the horiseon website <<**](https://senseilein.github.io/horiseon-improving-web-accessibility/)
 
 ### 💬 User story
 
